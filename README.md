@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Rizzy</h2>
 👋 Hey! Im Rizzy
-👨‍💼 About Me
-🤖 I make Discord Bots!
+👨‍💼 &nbsp;About Me
+🤖 &nbsp;I make Discord Bots!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
