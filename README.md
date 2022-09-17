@@ -21,6 +21,8 @@
 </p>
 
 -----
+Credits: [Rizzy](https://github.com/RizzyCoding)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
