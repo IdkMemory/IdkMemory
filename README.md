@@ -30,6 +30,8 @@
 <div align="center">
     <a href="https://discord.gg/frendo" target="_blank"><img src="https://shields.io/badge/Frendo-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/rizzycoding" target="_blank"><img src="https://shields.io/badge/RizzyCoding-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.youtube.com/channel/UCih_zRhpccXt_uVw_2h1fXg" target="_blank"><img src="https://shields.io/badge/Rizzy-111111.svg?&style=for-the-badge&logo=youtube"></a>
+
 </div>
 
 -----
