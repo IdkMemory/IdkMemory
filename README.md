@@ -4,6 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=rizzycoding&color=32CD32"/>
 </div>
 
+
 <div align="center">
     <a href="https://discord.com/users/952534330897469502" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/952534330897469502"></a>
 </div>
