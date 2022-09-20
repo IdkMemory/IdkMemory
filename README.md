@@ -37,11 +37,6 @@ Credits: [Rizzy](https://github.com/RizzyCoding)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rizzycoding&color=32CD32"/>
-</div>
-
-
 <p align="center">
 <a href="https://github.com/RizzyCoding">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RizzyCoding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
