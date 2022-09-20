@@ -1,4 +1,4 @@
-[![Hits](http://hits.dwyl.com/RizzyCoding/Rizzy.svg)](http://hits.dwyl.com/RizzyCoding/Rizzy)
+[![Profile Views](http://hits.dwyl.com/RizzyCoding/Rizzy.svg)](http://hits.dwyl.com/RizzyCoding/Rizzy)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Rizzy</h2>
 👋 Hey! Im Rizzy
