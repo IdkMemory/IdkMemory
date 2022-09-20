@@ -1,4 +1,13 @@
-[![Profile Views](http://hits.dwyl.com/RizzyCoding/Rizzy.svg)](http://hits.dwyl.com/RizzyCoding/Rizzy)
+# ✨ Stats!
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=rizzycoding&color=32CD32"/>
+</div>
+
+<div align="center">
+    <a href="https://discord.com/users/952534330897469502" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/952534330897469502"></a>
+</div>
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Rizzy</h2>
 👋 Hey! Im Rizzy
