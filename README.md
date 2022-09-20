@@ -35,7 +35,8 @@
 </div>
 
 -----
-Credits: [Rizzy](https://github.com/RizzyCoding)
+Credits: [Rowy Here](https://github.com/RowyHere)
+(Allowed me to take some of his readme.md)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
