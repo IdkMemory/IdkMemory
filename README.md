@@ -16,7 +16,7 @@
 
 🤖 &nbsp;I make Discord Bots!
 
-🏴󠁧󠁢󠁷󠁬󠁳󠁿 &nbsp;Proud To Be welsh!
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 &nbsp;Proud To Be Welsh!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
