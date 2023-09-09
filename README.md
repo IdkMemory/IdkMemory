@@ -1,7 +1,7 @@
 # ✨ Stats!
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rizzycoding&color=32CD32"/>
+    <img src="https://komarev.com/ghpvc/?username=VexxlyCoding&color=32CD32"/>
 </div>
 
 
@@ -10,7 +10,7 @@
 </div>
 
 
-👋 Hey! Im Rizzy
+👋 Hey! Im Vexxly
 
 👨‍💼 &nbsp;About Me
 
@@ -25,13 +25,6 @@
 
 ![python](https://shields.io/badge/Python-111111.svg?&style=for-the-badge&logo=python)
 
-# 📱 Socials
-<div align="center">
-    <a href="https://discord.gg/frendo" target="_blank"><img src="https://shields.io/badge/Frendo-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/rizzycoding" target="_blank"><img src="https://shields.io/badge/RizzyCoding-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.youtube.com/channel/UCih_zRhpccXt_uVw_2h1fXg" target="_blank"><img src="https://shields.io/badge/Rizzy-111111.svg?&style=for-the-badge&logo=youtube"></a>
-
-</div>
 
 -----
 Credits: [Rowy Here](https://github.com/RowyHere)
@@ -40,8 +33,8 @@ Credits: [Rowy Here](https://github.com/RowyHere)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/RizzyCoding">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RizzyCoding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RizzyCoding&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/VexxlyCoding">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VexxlyCoding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VexxlyCoding&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
