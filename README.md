@@ -6,7 +6,7 @@
 
 
 <div align="center">
-    <a href="https://discord.com/users/952534330897469502" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/952534330897469502"></a>
+    <a href="https://discord.com/users/1138864213931073618" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1138864213931073618"></a>
 </div>
 
 
